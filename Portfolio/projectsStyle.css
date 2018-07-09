@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(153, 206, 255);
+}
+nav{
+    padding: 20px;
+    font-size: 25px;
+    font-family:'Yatra One', cursive;
+    text-align: right; 
+    color:rgb(0, 89, 179);
+}
+a:hover{
+    color: deeppink;
+}

@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(153, 206, 255);
+}
+#p1{
+    font-size: 40px;
+    color:rgb(0, 79, 153);
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+nav{
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Yatra One', cursive;
+    text-align: right; 
+    color:rgb(0, 89, 179);
+}
+a:hover{
+    color: deeppink;
+}
+#p3{
+    font-size: 19px;
+    color:rgb(0, 79, 153);
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+#p4{
+    font-size: 19px;
+    color:rgb(0, 79, 153);
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+#p5{
+    font-size: 27px;
+    color:rgb(0, 79, 153);
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
