@@ -1,23 +1,45 @@
-#lion{
-    width:500px;
-    height:500px;
+#myself{
+    width:400px;
+    height:600px;
+    float: right;
+    padding-right: 5em;
 }
 #p2{
     float: left;
     width: 50%;
     font-size: 25px;
-    padding: 20px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    color: rgb(0, 79, 153);
+    border: double;
+    border-color: rgb(0, 79, 153);
+    border-spacing: inherit;
+    font-family: 'Yatra One', cursive;
+    line-height: 130%;
+    text-overflow: ellipsis;
+    max-width: 500px;
 }
 #p1{
     font-size: 40px;
+    color: rgb(0, 51, 102);
+    text-align: center;
+    font-family: 'Yatra One', cursive;
 }
 #div {
     padding: 20px;
-    border: solid;
 }
 nav{
     padding: 20px;
     font-size: 25px;
-    font-family: 'IM Fell English SC', serif;
-    text-align: right    
+   font-family: 'Yatra One', cursive;
+    text-align: right; 
+    color:rgb(0, 89, 179);
+}
+body{
+    background-color:rgb(153, 206, 255);
+}
+a:hover{
+    color: deeppink;
 }
