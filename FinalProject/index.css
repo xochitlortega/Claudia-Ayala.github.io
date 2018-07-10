@@ -3,7 +3,7 @@ body{
   font-family: 'Galada',cursive;
   text-align: center; 
   font-size: 200;
-  
-  
 }
-  
+  a:hover{
+    color: orange-red
+}
