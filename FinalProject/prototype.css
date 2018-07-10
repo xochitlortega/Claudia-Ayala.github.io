@@ -1,6 +1,11 @@
 body{
-  background-color: #AA4B41;
+    background-color:rgb(153, 206, 255);
+      align-items: center;
 }
 nav{
-  text-alignment:right;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Yatra One', cursive;
+    text-align: right; 
+    color:rgb(0, 89, 179);
 }
