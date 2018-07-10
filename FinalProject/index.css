@@ -4,6 +4,6 @@ body{
   text-align: center; 
   font-size: 200;
 }
-  a:hover{
+  a: hover{
     color: orange-red;
 }
