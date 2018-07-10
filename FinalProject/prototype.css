@@ -1,6 +1,6 @@
-#body{
+body{
   background-color: #AA4B41;
 }
-#nav{
-  Float:right;
+nav{
+  text-alignment:right;
 }
