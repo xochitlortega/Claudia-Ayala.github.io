@@ -1,11 +1,16 @@
-body{
-    background-color:rgb(153, 206, 255);
-      align-items: center;
-}
 nav{
     padding: 20px;
     font-size: 25px;
     font-family: 'Yatra One', cursive;
     text-align: right; 
     color:rgb(0, 89, 179);
+}
+body{ 
+  background-color: #D4DDE1;
+  font-family: 'Galada',cursive;
+  text-align: center; 
+  font-size: 200;
+}
+  a: hover{
+    color: orange-red;
 }
