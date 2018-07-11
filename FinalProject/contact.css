@@ -7,6 +7,14 @@ h1 {
     text-align: center;
 }
 
+nav{
+    text-align: center;
+}
+
+a:hover { 
+    background-color: #2D3033;
+}
+    
 p {
     font-family: verdana;
     font-size: 20px;
