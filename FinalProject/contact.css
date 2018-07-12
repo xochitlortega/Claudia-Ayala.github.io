@@ -15,7 +15,14 @@ a:hover {
     background-color: #2D3033;
 }
     
-p {
-    font-family: verdana;
-    font-size: 20px;
+#contact {
+    border-style: solid;
+    border-width:2px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 25px;
+    
 }
+
