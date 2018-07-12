@@ -3,14 +3,14 @@ body{
   font-family: 'Nanum+gothic',sans-serif;
   text-align: center; 
 }
-  a: hover {
-color:#2D3033;
+ a: hover {
+  color:#2D3033;
 }
 p{
-font-size: 200;
+  font-size: 200;
 }
 img{
- width: 55%;
+  width: 55%;
   height: auto;
 }
   
