@@ -2,8 +2,10 @@ body{
   background-color: #D4DDE1;
   font-family: 'Galada',cursive;
   text-align: center; 
-  font-size: 200;
 }
-  a: hover{
-    color: orange-red;
+  a: hover {
+   color: orange-red;
+}
+#indexfinal{
+ text-size: 200px;
 }
