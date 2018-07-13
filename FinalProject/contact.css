@@ -22,6 +22,7 @@ a:hover {
     margin-bottom: auto;
     margin-right: auto;
     margin-left: auto;
-    padding: 25px;    
+    padding: 25px; 
+    border-box: 50%;
 }
 
