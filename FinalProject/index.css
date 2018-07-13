@@ -2,14 +2,13 @@ body{
   background-color: #D4DDE1;
   font-family: 'Nanum+gothic',sans-serif;
   text-align: center; 
-  text-color: #AA4B41;
 }
  a: hover {
   color:#2D3033;
 }
 p{
   font-size: 200;
-  text-color: #AA4B41;
+  color: #AA4B41;
 }
 img{
   width: 55%;
