@@ -1,6 +1,6 @@
 nav{
     padding: 20px;
-    font-size: 15em;
+    font-size: 9em;
     font-family: 'Yatra One', cursive;
     text-align: right; 
     color:rgb(0, 89, 179);
@@ -11,8 +11,9 @@ body{
   text-align: center; 
   font-size: 200;
 }
-  a: hover{
-    color: orange-red;
+ a: hover {
+  background-color: #2D3033;
+  color:#335252;
 }
 #p1{
     font-family; 'Nanum+gothic',sans'serif;
