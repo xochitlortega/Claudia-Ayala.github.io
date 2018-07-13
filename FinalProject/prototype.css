@@ -6,11 +6,21 @@ nav{
     color:rgb(0, 89, 179);
 }
 body{ 
-  background-color: #D4DDE1;
+  background-color:#D4DDE1;
   font-family: 'Galada',cursive;
   text-align: center; 
   font-size: 200;
 }
   a: hover{
     color: orange-red;
+}
+#p1{
+    font-family; 'Nanum+gothic',sans'serif;
+    font-size: 30px;
+    font-color:#AA4B41;
+}
+#p2{
+    font-family; 'Nanum+gothic',sans'serif;
+    font-size: 18px;
+    font-color:#AA4B41;
 }
