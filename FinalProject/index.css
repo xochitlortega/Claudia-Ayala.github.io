@@ -4,7 +4,8 @@ body{
   text-align: center; 
 }
  a: hover {
-  color:#2D3033;
+  background-color: #2D3033
+  color:#335252;
 }
 img{
   width: 55%;
