@@ -2,6 +2,8 @@
     
     )
     
+@media only laptop and (max-width: 725px){
+        
 body {
     background-color: #D4DDE1;
 }
