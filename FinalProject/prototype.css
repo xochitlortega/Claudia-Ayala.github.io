@@ -1,6 +1,6 @@
 nav{
     padding: 20px;
-    font-size: 25px;
+    font-size: 15em;
     font-family: 'Yatra One', cursive;
     text-align: right; 
     color:rgb(0, 89, 179);
@@ -16,11 +16,11 @@ body{
 }
 #p1{
     font-family; 'Nanum+gothic',sans'serif;
-    font-size: 30px;
+    font-size: 30em;
     font-color:#AA4B41;
 }
 #p2{
     font-family; 'Nanum+gothic',sans'serif;
-    font-size: 18px;
+    font-size: 18em;
     font-color:#AA4B41;
 }
