@@ -1,8 +1,7 @@
 body{ 
-  background-color: #D4DDE1;
+  #p1 {background-color: #D4DDE1;} /* red */
   font-family: 'Nanum+gothic',sans-serif;
   text-align: center; 
-  color:  #AA4B41;
 }
  a: hover {
   color:#2D3033;
