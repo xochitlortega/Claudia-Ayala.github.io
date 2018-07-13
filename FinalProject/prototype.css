@@ -18,9 +18,11 @@ a:hover{
     font-family; 'Nanum+gothic',sans'serif;
     font-size: 30em;
     font-color:#AA4B41;
+    text-alignment: left;
 }
 #p2{
     font-family; 'Nanum+gothic',sans'serif;
     font-size: 18em;
     font-color:#AA4B41;
+    text-alignment: left;
 }
