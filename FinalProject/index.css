@@ -6,12 +6,12 @@ body{
  a: hover {
   color:#2D3033;
 }
-p{
-  font-size: 200;
-  color: #AA4B41;
-}
 img{
   width: 55%;
   height: auto;
+}
+h2{
+  color:  #AA4B41;
+  font-size: 50;
 }
   
