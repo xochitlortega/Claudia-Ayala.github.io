@@ -7,8 +7,9 @@ h1 {
     text-align: center;
 }
 
-nav{
-    text-align: center;
+#nav{
+    text-align: right;
+    background: #AA4B41;
 }
 
 a:hover{ 
