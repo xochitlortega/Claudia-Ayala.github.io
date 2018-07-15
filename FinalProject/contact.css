@@ -1,4 +1,13 @@
-body {
+@media only screen and (max-width: 800px) {
+    body {
+    background-color: #D4DDE1;
+}
+    
+    
+}
+
+@media only screen and (min-width: 801px) {
+body { 
     background-color: #D4DDE1;
 }
 
@@ -27,4 +36,6 @@ a:hover{
     box-sizing: border-box;
     width: 30%;
     text-align: center;
+}
+
 }
